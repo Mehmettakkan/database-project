@@ -21,5 +21,8 @@ The project aims to implement topics such as database design, relational databas
 6. As a result of this project, basic strategies and practical knowledge were gained to increase the performance, reliability and data integrity of database systems.
    
 7. Practical experience was gained on important operations such as database management processes, backup, restore and performance improvement.
-   
-8. Query performance was increased and the database system was made more efficient.
+
+9. Query performance was increased and the database system was made more efficient.
+
+![Database-Schema](https://github.com/Mehmettakkan/database-project/assets/114080733/df11ce49-0bf8-4b69-a5af-9cef37778665)
+
