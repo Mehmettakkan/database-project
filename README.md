@@ -1,4 +1,12 @@
-# database-project
+# The main purpose of the Supply Chain Management project
+
+I designed a project to create a MySql-based database and perform operations on this database using SQL queries. This project is based on supply chain management and store management. First of all, a database was created containing the information of customers, suppliers, stores and employees. Later, tables were added to this database to track orders, products, warehouses and order transactions.
+
+The project performs various operations on the database using SQL queries. For example, it performs operations such as processing customer orders, updating product stocks, and changing employee information. In addition, various SQL queries are used to create reports in the database, providing access to information such as analysis of customer expenditures and product sales statistics.
+
+The project aims to implement topics such as database design, relational database concepts and the use of SQL queries. In this way, it is aimed to improve database management skills in areas such as supply chain management and store management.
+
+# Skills I Gained with the Project
 
 1. In this project, basic concepts about relational database design and establishing relationships between tables were learned.
    
